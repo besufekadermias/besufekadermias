@@ -79,4 +79,4 @@
   <strong>Thanks for stopping by! Let's create powerful and beautiful things together 🚀</strong>
 </p>
 
-[![GitHub Streak](https://github-readme-flame-one.vercel.app?user=besufekadermias&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats2-theta.vercel.app?user=besufekadermias)](https://git.io/streak-stats)
