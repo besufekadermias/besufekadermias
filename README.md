@@ -79,3 +79,5 @@
   <strong>Thanks for stopping by! Let's create powerful and beautiful things together 🚀</strong>
 </p>
 
+## 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=besufekadermias&theme=dark&hide_border=true)](https://git.io/streak-stats)
