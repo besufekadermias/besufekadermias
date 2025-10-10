@@ -10,7 +10,7 @@
 
 <p align="center">
   📬 <strong>Reach me at:</strong>  
-  <a href="https://t.me/r341_1457">@r341_1457</a> | 
+  <a href="https://t.me/theolentt">@theolentt</a> | 
   <a href="mailto:besufekaermias5@gmail.com">besufekaermias5@gmail.com</a>
 </p>
 
