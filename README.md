@@ -79,9 +79,4 @@
   <strong>Thanks for stopping by! Let's create powerful and beautiful things together 🚀</strong>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-yourname.vercel.app?user=besufekadermias&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=besufekadermias&theme=dark" alt="GitHub Streak" /></a>
