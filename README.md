@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Besufekad Ermias 👋</h1>
+<h1 align="center">Hi there, I'm Theolent👋</h1>
 
 <p align="center">
   👨‍💻 Full-Stack Developer | 💡 Always Learning | 🌍 Based in Ethiopia
