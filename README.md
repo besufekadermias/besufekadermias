@@ -79,4 +79,4 @@
   <strong>Thanks for stopping by! Let's create powerful and beautiful things together 🚀</strong>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=besufekadermias)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=besufekadermias&exclude_days=Sun&hide_total_contributions=true)](https://git.io/streak-stats)
