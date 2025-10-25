@@ -78,5 +78,6 @@
   <em>“The best error message is the one that never shows up.” – Thomas Fuchs</em><br/>
   <strong>Thanks for stopping by! Let's create powerful and beautiful things together 🚀</strong>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-sta1.vercel.app?user=besufekadermias&theme=dark&hide_total_contributions=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=besufekadermias&theme=dark)](https://git.io/streak-stats)
+
 
