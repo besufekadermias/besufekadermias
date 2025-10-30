@@ -79,6 +79,7 @@
   <strong>Thanks for stopping by! Let's create powerful and beautiful things together 🚀</strong>
 </p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=besufekad&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=besufekad&theme=dark&hide_border=true&hide_total_contributions=true)
+
 
 
