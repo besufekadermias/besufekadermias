@@ -64,7 +64,7 @@
   <a href="https://linkedin.com/in/yourname">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/r341_1457">
+  <a href="https://t.me/besufekad_ermias">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:besufekaermias5@gmail.com">
