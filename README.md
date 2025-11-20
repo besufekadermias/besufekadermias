@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Theolent👋</h1>
+<h1 align="center">Hi there, I'm Besufekad Ermias👋</h1>
 
 <p align="center">
   👨‍💻 Full-Stack Developer | 💡 Always Learning | 🌍 Based in Ethiopia
@@ -10,7 +10,7 @@
 
 <p align="center">
   📬 <strong>Reach me at:</strong>  
-  <a href="https://t.me/theolentt">@theolentt</a> | 
+  <a href="https://t.me/Besufekad_Ermias">@Besufekad_Ermias</a> | 
   <a href="mailto:besufekaermias5@gmail.com">besufekaermias5@gmail.com</a>
 </p>
 
@@ -61,10 +61,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourname">
+  <a href="https://linkedin.com/in/besufekad-ermias">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/besufekad_ermias">
+  <a href="https://t.me/Besufekad_Ermias">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:besufekaermias5@gmail.com">
