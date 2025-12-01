@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Besufekad Ermias👋</h1>
 
 <p align="center">
-  👨‍💻 Full-Stack Developer | 💡 Always Learning | 🌍 Based in Ethiopia
+  👨‍💻 Full-Stack Developer | 💡 Always Learning 
 </p>
 
 <p align="center">
