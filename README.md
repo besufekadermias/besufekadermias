@@ -1,23 +1,4 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║         BESUFEKAD ERMIAS — GitHub Profile README v2          ║
-║         Refined · Clean · Fully Working Animations           ║
-║                                                              ║
-║  HOW TO USE:                                                 ║
-║  1. Go to GitHub → New repo → name it exactly your username  ║
-║     (besufekadermias/besufekadermias)                        ║
-║  2. Add this file as README.md and commit                    ║
-║  3. It auto-appears on your GitHub profile page!             ║
-║                                                              ║
-║  🔁 Replace anything marked [YOUR_...]                       ║
-╚══════════════════════════════════════════════════════════════╝
--->
 
-<!-- ══════════════════════════════════════════════════════════
-     SECTION 1: HERO BANNER
-     capsule-render: reliable, no auth needed, renders on GitHub
-     Docs: https://github.com/kyechan99/capsule-render
-══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -28,10 +9,6 @@
 />
 
 <!-- ── TYPING SVG ────────────────────────────────────────────
-     FIX APPLIED: removed emoji from lines= (emoji break the
-     URL encoding and cause the SVG to fail to render).
-     Only plain ASCII text is used here — 100% reliable.
-     To customise: https://readme-typing-svg.demolab.com/demo/
 ──────────────────────────────────────────────────────────── -->
 <a href="https://readme-typing-svg.demolab.com">
   <img
@@ -82,13 +59,13 @@ const besufekad = {
 
 <div align="center">
 
-<!-- Social link badges — replace placeholders with your real handles -->
-<!-- Replace [YOUR_LINKEDIN_USERNAME] e.g. john-doe-123 -->
+
+
 <a href="https://linkedin.com/in/besufekadermias">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<!-- Replace [YOUR_TELEGRAM_USERNAME] e.g. besufekad -->
+
 <a href="https://t.me/besufekad_ermias">
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
@@ -164,30 +141,7 @@ const besufekad = {
 
 <div align="center">
 
-<!-- ── STATS + TOP LANGUAGES ──────────────────────────────────
-     ROOT CAUSE OF BROKEN IMAGES: The default vercel.app instance
-     of github-readme-stats is rate-limited (millions of users
-     share it). GitHub blocks it frequently, causing broken images.
 
-     FIX: Use github-stats.mattstratton.com — a stable, publicly
-     available alternative deployment of the same project that
-     is far less congested. Falls back gracefully if unavailable.
-
-     ALTERNATIVE: You can deploy your own free instance in 2 min:
-     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-──────────────────────────────────────────────────────────── -->
-
-
-
-
-<br/><br/>
-
-<!-- ── PROFILE SUMMARY CARDS ────────────────────────────────
-     Completely independent service — different API, different
-     servers, no shared rate limits with github-readme-stats.
-     If the stats/langs cards above still flake, this one
-     always loads. It covers repos, commits, and languages.
-──────────────────────────────────────────────────────────── -->
 
 <br/><br/>
 
@@ -197,21 +151,6 @@ const besufekad = {
   width="500"
   alt="GitHub Streak"
 />
-
-<br/><br/>
-
-<!-- ── ACTIVITY GRAPH (REPLACES SNAKE) ───────────────────────
-     WHY: The snake animation requires GitHub Actions to be set
-     up manually in your repo (creates the SVG on a schedule).
-     Until that workflow runs, the image is a broken link.
-
-     THIS IS THE RELIABLE ALTERNATIVE:
-     github-readme-activity-graph works instantly — no setup,
-     no Actions needed. It pulls your contribution data live
-     from the GitHub API and renders a beautiful area graph.
-     Docs: https://github.com/Ashutosh00710/github-readme-activity-graph
-──────────────────────────────────────────────────────────── -->
-
 
 </div>
 
