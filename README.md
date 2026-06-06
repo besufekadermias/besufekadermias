@@ -12,7 +12,7 @@
 ──────────────────────────────────────────────────────────── -->
 <a href="https://readme-typing-svg.demolab.com">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=580&height=55&lines=Building+impactful+full-stack+apps;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Integrating+AI+with+Google+Gemini+API;Ethiopia+-+Open+to+collaborate+worldwide"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=580&height=55&lines=Building+impactful+full-stack+apps;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB+MERN;Integrating+AI;Ethiopia+-+Open+to+collaborate+worldwide"
     alt="Typing SVG"
   />
 </a>
