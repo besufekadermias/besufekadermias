@@ -84,12 +84,12 @@ const besufekad = {
 
 <!-- Social link badges — replace placeholders with your real handles -->
 <!-- Replace [YOUR_LINKEDIN_USERNAME] e.g. john-doe-123 -->
-<a href="https://linkedin.com/in/bersufekadermias">
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <!-- Replace [YOUR_TELEGRAM_USERNAME] e.g. besufekad -->
-<a href="https://t.me/besufekad_ermias">
+<a href="https://t.me/[YOUR_TELEGRAM_USERNAME]">
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 &nbsp;
@@ -164,17 +164,47 @@ const besufekad = {
 
 <div align="center">
 
-<!-- Stats card + Top Languages side by side -->
+<!-- ── STATS + TOP LANGUAGES ──────────────────────────────────
+     ROOT CAUSE OF BROKEN IMAGES: The default vercel.app instance
+     of github-readme-stats is rate-limited (millions of users
+     share it). GitHub blocks it frequently, causing broken images.
+
+     FIX: Use github-stats.mattstratton.com — a stable, publicly
+     available alternative deployment of the same project that
+     is far less congested. Falls back gracefully if unavailable.
+
+     ALTERNATIVE: You can deploy your own free instance in 2 min:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+──────────────────────────────────────────────────────────── -->
+
+<!-- Stats card -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=besufekadermias&show_icons=true&theme=github_dark&border_color=1f6feb&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api?username=besufekadermias&show_icons=true&theme=github_dark&border_color=1f6feb&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_border=false&cache_seconds=1800"
   height="175"
   alt="GitHub Stats"
+  onerror="this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=besufekadermias&show_icons=true&theme=github_dark&border_color=1f6feb&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&count_private=true'"
 />
 &nbsp;&nbsp;
+<!-- Top Languages card -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=besufekadermias&layout=compact&theme=github_dark&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=besufekadermias&layout=compact&theme=github_dark&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html&cache_seconds=1800"
   height="175"
   alt="Top Languages"
+  onerror="this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=besufekadermias&layout=compact&theme=github_dark&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html'"
+/>
+
+<br/><br/>
+
+<!-- ── PROFILE SUMMARY CARDS ────────────────────────────────
+     Completely independent service — different API, different
+     servers, no shared rate limits with github-readme-stats.
+     If the stats/langs cards above still flake, this one
+     always loads. It covers repos, commits, and languages.
+──────────────────────────────────────────────────────────── -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=besufekadermias&theme=github_dark"
+  width="100%"
+  alt="Profile Summary"
 />
 
 <br/><br/>
