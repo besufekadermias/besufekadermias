@@ -19,20 +19,13 @@
 
 <br/><br/>
 
-<!-- Live stat badges — all use reliable hosted services -->
-<!-- Profile view counter (komarev.com — very stable) -->
-<img src="https://komarev.com/ghpvc/?username=besufekadermias&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="views"/>
-&nbsp;
-<!-- Shields.io pulls live data from GitHub API -->
-<img src="https://img.shields.io/github/followers/besufekadermias?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS" alt="followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/besufekadermias?style=for-the-badge&color=f0883e&labelColor=0d1117&label=TOTAL+STARS" alt="stars"/>
+
 
 </div>
 
 <br/>
 
----
+
 
 <!-- ══════════════════════════════════════════════════════════
      SECTION 2: ABOUT ME
@@ -76,7 +69,7 @@ const besufekad = {
 
 </div>
 
----
+
 
 <!-- ══════════════════════════════════════════════════════════
      SECTION 3: TECH STACK
@@ -128,7 +121,7 @@ const besufekad = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff)
 
----
+
 
 <!-- ══════════════════════════════════════════════════════════
      SECTION 4: GITHUB STATS
@@ -154,7 +147,6 @@ const besufekad = {
 
 </div>
 
----
 
 <!-- ══════════════════════════════════════════════════════════
      SECTION 5: DEVELOPER QUOTE
@@ -175,7 +167,7 @@ const besufekad = {
 
 </div>
 
----
+
 
 <!-- ══════════════════════════════════════════════════════════
      SECTION 6: FOOTER
