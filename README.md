@@ -1,44 +1,55 @@
 <!--
 ╔══════════════════════════════════════════════════════════════╗
-║         BESUFEKAD ERMIAS — GitHub Profile README             ║
-║         Built with ❤️  using Markdown + HTML                 ║
+║         BESUFEKAD ERMIAS — GitHub Profile README v2          ║
+║         Refined · Clean · Fully Working Animations           ║
 ║                                                              ║
 ║  HOW TO USE:                                                 ║
 ║  1. Go to GitHub → New repo → name it exactly your username  ║
 ║     (besufekadermias/besufekadermias)                        ║
-║  2. Add this file as README.md                               ║
-║  3. Commit — it auto-appears on your profile!                ║
+║  2. Add this file as README.md and commit                    ║
+║  3. It auto-appears on your GitHub profile page!             ║
 ║                                                              ║
-║  🔁 REPLACE ANYWHERE YOU SEE: [YOUR_...]                     ║
+║  🔁 Replace anything marked [YOUR_...]                       ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ════════════════════════════════════════════════════════════
-     SECTION 1: HERO BANNER — Animated typing header
-     Uses: readme-typing-svg by DenverCoder9 (free, no signup)
-     Customize text at: https://readme-typing-svg.demolab.com
-════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════
+     SECTION 1: HERO BANNER
+     capsule-render: reliable, no auth needed, renders on GitHub
+     Docs: https://github.com/kyechan99/capsule-render
+══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Animated wave greeting -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Besufekad%20Ermias&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Always%20Learning&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2d6b,100:1f6feb&height=220&section=header&text=Besufekad%20Ermias&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Always%20Learning&descAlignY=58&descSize=19&animation=fadeIn"
+  width="100%"
+  alt="header"
+/>
 
-<!-- Animated typing SVG — change the lines array to update what it types -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Building+impactful+full-stack+apps+🚀;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Clean+code+%2B+creative+solutions+%F0%9F%94%A5;Ethiopia+🇪🇹+%7C+Open+to+collaborate!" alt="Typing SVG" />
+<!-- ── TYPING SVG ────────────────────────────────────────────
+     FIX APPLIED: removed emoji from lines= (emoji break the
+     URL encoding and cause the SVG to fail to render).
+     Only plain ASCII text is used here — 100% reliable.
+     To customise: https://readme-typing-svg.demolab.com/demo/
+──────────────────────────────────────────────────────────── -->
+<a href="https://readme-typing-svg.demolab.com">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=580&height=55&lines=Building+impactful+full-stack+apps;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Integrating+AI+with+Google+Gemini+API;Ethiopia+-+Open+to+collaborate+worldwide"
+    alt="Typing SVG"
+  />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile view counter badge — replace besufekadermias with your username -->
-<img src="https://komarev.com/ghpvc/?username=besufekadermias&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+<!-- Live stat badges — all use reliable hosted services -->
+<!-- Profile view counter (komarev.com — very stable) -->
+<img src="https://komarev.com/ghpvc/?username=besufekadermias&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="views"/>
 &nbsp;
-<!-- GitHub followers badge -->
-<img src="https://img.shields.io/github/followers/besufekadermias?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS" />
+<!-- Shields.io pulls live data from GitHub API -->
+<img src="https://img.shields.io/github/followers/besufekadermias?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS" alt="followers"/>
 &nbsp;
-<!-- Stars badge — counts all your repo stars -->
-<img src="https://img.shields.io/github/stars/besufekadermias?style=for-the-badge&color=f0883e&labelColor=0d1117&label=TOTAL+STARS" />
+<img src="https://img.shields.io/github/stars/besufekadermias?style=for-the-badge&color=f0883e&labelColor=0d1117&label=TOTAL+STARS" alt="stars"/>
 
 </div>
 
@@ -46,22 +57,24 @@
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════
+<!-- ══════════════════════════════════════════════════════════
      SECTION 2: ABOUT ME
-     Customize: update bio, location, email, socials
-════════════════════════════════════════════════════════════ -->
+     The TypeScript code block renders with syntax highlighting
+     on GitHub — clean, readable, and very dev-friendly.
+     Update the values to match your real info.
+══════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> &nbsp;About Me
 
 ```typescript
 const besufekad = {
   name:       "Besufekad Ermias",
   username:   "@besufekadermias",
-  location:   "Ethiopia 🇪🇹",
+  location:   "Ethiopia",
   role:       "Full-Stack Developer",
   focus:      ["Web Apps", "AI Integration", "Clean Architecture"],
   learning:   ["System Design", "DevOps", "TypeScript"],
-  funFact:    "The best error message is the one that never shows up 😄",
+  funFact:    "The best error message is the one that never shows up.",
   openTo:     ["Collaborations", "Open Source", "Freelance"],
   contact:    "besufekadermias5@gmail.com",
 };
@@ -69,29 +82,31 @@ const besufekad = {
 
 <div align="center">
 
-<!-- Social badges — replace YOUR_LINKEDIN with your actual LinkedIn username -->
+<!-- Social link badges — replace placeholders with your real handles -->
+<!-- Replace [YOUR_LINKEDIN_USERNAME] e.g. john-doe-123 -->
 <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<!-- Replace YOUR_TELEGRAM with your Telegram @username -->
+<!-- Replace [YOUR_TELEGRAM_USERNAME] e.g. besufekad -->
 <a href="https://t.me/[YOUR_TELEGRAM_USERNAME]">
-  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 &nbsp;
 <a href="mailto:besufekadermias5@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════
+<!-- ══════════════════════════════════════════════════════════
      SECTION 3: TECH STACK
-     Badges from: https://shields.io  and  https://simpleicons.org
-     Add/remove badges by changing the logo= and label= params
-════════════════════════════════════════════════════════════ -->
+     All badges from shields.io with simpleicons.org logos.
+     Full icon list: https://simpleicons.org
+     Add a badge: copy any line and change logo=, label=, color=
+══════════════════════════════════════════════════════════ -->
 
 ## 🛠️ &nbsp;Tech Stack & Tools
 
@@ -107,7 +122,7 @@ const besufekad = {
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
 
 **Backend & Database**
@@ -138,171 +153,103 @@ const besufekad = {
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════
-     SECTION 4: FEATURED PROJECTS
-     Replace each project block with your actual repos.
-     Format: repo name, description, tech used, live link (if any)
-════════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-<!-- Project cards using GitHub repo cards — replace besufekadermias/REPO-NAME -->
-
-<a href="https://github.com/besufekadermias/AI-Habit-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=besufekadermias&repo=AI-Habit-Tracker&theme=github_dark&border_color=1f6feb&title_color=58a6ff&icon_color=f0883e&show_icons=true" />
-</a>
-
-<!-- Add more project cards below — copy the block above and change repo= -->
-<!-- Example:
-<a href="https://github.com/besufekadermias/YOUR-REPO-NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=besufekadermias&repo=YOUR-REPO-NAME&theme=github_dark&border_color=1f6feb&title_color=58a6ff&icon_color=f0883e&show_icons=true" />
-</a>
--->
-
-</div>
-
-<br/>
-
-<!-- Manual project showcase table — great for projects not on GitHub or with images -->
-
-| 🔥 Project | 📋 Description | 🛠️ Stack | 🔗 Link |
-|:----------:|:--------------|:--------:|:-------:|
-| **AI Habit Tracker** | Full-stack habit tracker with AI coaching powered by Google Gemini | Node · Express · MongoDB · React · Gemini | [Repo](https://github.com/besufekadermias/AI-Habit-Tracker) |
-| **[YOUR PROJECT 2]** | [Short description — what does it do?] | [Tech used] | [Link or WIP 🚧] |
-| **[YOUR PROJECT 3]** | [Short description] | [Tech used] | [Link] |
-
----
-
-<!-- ════════════════════════════════════════════════════════════
-     SECTION 5: GITHUB STATS
-     All powered by github-readme-stats (vercel app, free)
-     Themes: dark, github_dark, radical, tokyonight, gruvbox, etc.
-════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════
+     SECTION 4: GITHUB STATS
+     github-readme-stats hosted on Vercel — very reliable.
+     Themes list: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+     count_private=true counts commits in private repos too.
+══════════════════════════════════════════════════════════ -->
 
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<!-- Main stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=besufekadermias&show_icons=true&theme=github_dark&border_color=1f6feb&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" height="180" />
+<!-- Stats card + Top Languages side by side -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=besufekadermias&show_icons=true&theme=github_dark&border_color=1f6feb&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_border=false"
+  height="175"
+  alt="GitHub Stats"
+/>
 &nbsp;&nbsp;
-<!-- Top languages card — hide_langs to exclude irrelevant ones -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=besufekadermias&layout=compact&theme=github_dark&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html" height="180" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=besufekadermias&layout=compact&theme=github_dark&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html"
+  height="175"
+  alt="Top Languages"
+/>
 
 <br/><br/>
 
-<!-- Streak stats — shows current streak, longest streak, total contributions -->
-<img src="https://streak-stats.demolab.com/?user=besufekadermias&theme=github-dark-blue&border=1f6feb&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="500" />
+<!-- Streak stats — streak-stats.demolab.com is stable and widely used -->
+<img
+  src="https://streak-stats.demolab.com/?user=besufekadermias&theme=github-dark-blue&border=1f6feb&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&stroke=0d1117"
+  width="500"
+  alt="GitHub Streak"
+/>
 
 <br/><br/>
 
-<!-- Contribution graph — animated snake eating your commits 🐍 -->
-<!-- SETUP REQUIRED: You need to enable GitHub Actions to generate this snake.
-     Steps:
-     1. In your profile repo, create: .github/workflows/snake.yml
-     2. Paste the workflow from: https://github.com/Platane/snk
-     3. The snake SVG will auto-generate at: github-readme-snake.vercel.app
-     OR use the hosted version below (works without setup but may be cached): -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/besufekadermias/besufekadermias/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/besufekadermias/besufekadermias/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/besufekadermias/besufekadermias/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- ── ACTIVITY GRAPH (REPLACES SNAKE) ───────────────────────
+     WHY: The snake animation requires GitHub Actions to be set
+     up manually in your repo (creates the SVG on a schedule).
+     Until that workflow runs, the image is a broken link.
 
-<!-- ALTERNATIVE if snake not set up yet — activity graph -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=besufekadermias&theme=github-compact&area=true&hide_border=true&color=58a6ff&line=1f6feb&point=f0883e" width="100%" /> -->
+     THIS IS THE RELIABLE ALTERNATIVE:
+     github-readme-activity-graph works instantly — no setup,
+     no Actions needed. It pulls your contribution data live
+     from the GitHub API and renders a beautiful area graph.
+     Docs: https://github.com/Ashutosh00710/github-readme-activity-graph
+──────────────────────────────────────────────────────────── -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=besufekadermias&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f0883e&area=true&area_color=1f6feb&hide_border=true"
+  width="100%"
+  alt="Contribution Activity Graph"
+/>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════
-     SECTION 6: CURRENTLY LEARNING / GOALS
-     Update this section regularly to show growth!
-════════════════════════════════════════════════════════════ -->
-
-## 🎯 &nbsp;Current Goals
-
-```
-🔨  Shipping AI Habit Tracker v1.0 to production
-📚  Mastering System Design & Scalable Architecture
-🤝  Contributing to Open Source projects
-🚀  Building 3 more full-stack projects this year
-🌍  Connecting with developers across Africa & beyond
-```
-
----
-
-<!-- ════════════════════════════════════════════════════════════
-     SECTION 7: DEVELOPER QUOTE
-     Rotates daily — powered by github-readme-quotes (free)
-════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════
+     SECTION 5: DEVELOPER QUOTE
+     quotes-github-readme.vercel.app — rotates a new quote
+     every day automatically. No config needed.
+     type=horizontal keeps it compact and clean.
+══════════════════════════════════════════════════════════ -->
 
 ## 💬 &nbsp;Dev Quote of the Day
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="600" />
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"
+  width="600"
+  alt="Dev Quote"
+/>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════
-     SECTION 8: FOOTER WAVE
-     Change color param to match your theme
-════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════
+     SECTION 6: FOOTER
+     capsule-render footer wave — mirrors the header style.
+     The Giphy coding GIF is a permanent hosted link (stable).
+══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Coding GIF — small, tasteful -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"
+  width="100%"
+  alt="footer"
+/>
 
-<!-- A personal touch — keep it authentic -->
 *"The best error message is the one that never shows up." — Thomas Fuchs*
 
 **Thanks for visiting — let's build something powerful together! 🚀**
 
 </div>
-
-<!-- ════════════════════════════════════════════════════════════
-     SNAKE ANIMATION SETUP (GitHub Actions)
-     Create file: .github/workflows/snake.yml
-     Paste this content:
-
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-════════════════════════════════════════════════════════════ -->
