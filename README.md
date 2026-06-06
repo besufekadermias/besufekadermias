@@ -84,12 +84,12 @@ const besufekad = {
 
 <!-- Social link badges — replace placeholders with your real handles -->
 <!-- Replace [YOUR_LINKEDIN_USERNAME] e.g. john-doe-123 -->
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
+<a href="https://linkedin.com/in/besufekadermias">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <!-- Replace [YOUR_TELEGRAM_USERNAME] e.g. besufekad -->
-<a href="https://t.me/[YOUR_TELEGRAM_USERNAME]">
+<a href="https://t.me/besufekad_ermias">
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 &nbsp;
@@ -201,11 +201,6 @@ const besufekad = {
      If the stats/langs cards above still flake, this one
      always loads. It covers repos, commits, and languages.
 ──────────────────────────────────────────────────────────── -->
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=besufekadermias&theme=github_dark"
-  width="100%"
-  alt="Profile Summary"
-/>
 
 <br/><br/>
 
@@ -229,11 +224,7 @@ const besufekad = {
      from the GitHub API and renders a beautiful area graph.
      Docs: https://github.com/Ashutosh00710/github-readme-activity-graph
 ──────────────────────────────────────────────────────────── -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=besufekadermias&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f0883e&area=true&area_color=1f6feb&hide_border=true"
-  width="100%"
-  alt="Contribution Activity Graph"
-/>
+
 
 </div>
 
