@@ -84,12 +84,12 @@ const besufekad = {
 
 <!-- Social link badges — replace placeholders with your real handles -->
 <!-- Replace [YOUR_LINKEDIN_USERNAME] e.g. john-doe-123 -->
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
+<a href="https://linkedin.com/in/bersufekadermias">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <!-- Replace [YOUR_TELEGRAM_USERNAME] e.g. besufekad -->
-<a href="https://t.me/[YOUR_TELEGRAM_USERNAME]">
+<a href="https://t.me/besufekad_ermias">
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 &nbsp;
