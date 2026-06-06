@@ -34,7 +34,7 @@
      Update the values to match your real info.
 ══════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> &nbsp;About Me
+ &nbsp;About Me
 
 ```typescript
 const besufekad = {
@@ -180,6 +180,6 @@ const besufekad = {
 
 *"The best error message is the one that never shows up." — Thomas Fuchs*
 
-**Thanks for visiting — let's build something powerful together! 🚀**
+**Thanks for visiting  let's build something powerful together! **
 
 </div>
