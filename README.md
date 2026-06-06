@@ -130,7 +130,7 @@ const besufekad = {
      count_private=true counts commits in private repos too.
 ══════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;GitHub Stats
+
 
 <div align="center">
 
@@ -155,15 +155,6 @@ const besufekad = {
      type=horizontal keeps it compact and clean.
 ══════════════════════════════════════════════════════════ -->
 
-## 💬 &nbsp;Dev Quote of the Day
-
-<div align="center">
-
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"
-  width="600"
-  alt="Dev Quote"
-/>
 
 </div>
 
