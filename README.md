@@ -177,21 +177,8 @@ const besufekad = {
      https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 ──────────────────────────────────────────────────────────── -->
 
-<!-- Stats card -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=besufekadermias&show_icons=true&theme=github_dark&border_color=1f6feb&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_border=false&cache_seconds=1800"
-  height="175"
-  alt="GitHub Stats"
-  onerror="this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=besufekadermias&show_icons=true&theme=github_dark&border_color=1f6feb&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&count_private=true'"
-/>
-&nbsp;&nbsp;
-<!-- Top Languages card -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=besufekadermias&layout=compact&theme=github_dark&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html&cache_seconds=1800"
-  height="175"
-  alt="Top Languages"
-  onerror="this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=besufekadermias&layout=compact&theme=github_dark&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html'"
-/>
+
+
 
 <br/><br/>
 
