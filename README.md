@@ -73,7 +73,7 @@
 </p>
 
 ---
-[[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=besufekadermias&theme=tokyonight&hide_border=true&border_radius=25&card_width=700)](https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com?user=besufekadermias&theme=tokyonight&hide_border=true&border_radius=25&card_width=700)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=besufekadermias&theme=tokyonight&hide_border=true&border_radius=25&card_width=700)](https://git.io/streak-stats)
 
 
 <p align="center">
