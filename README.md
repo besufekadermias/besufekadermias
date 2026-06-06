@@ -78,7 +78,7 @@ const besufekad = {
      Add a badge: copy any line and change logo=, label=, color=
 ══════════════════════════════════════════════════════════ -->
 
-## 🛠️ &nbsp;Tech Stack & Tools
+##  &nbsp;Tech Stack & Tools
 
 **Languages**
 
