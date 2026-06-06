@@ -73,7 +73,7 @@
 </p>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=besufekadermias&theme=tokyonight&hide_border=true&border_radius=25)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=besufekadermias)](https://git.io/streak-stats)
 
 
 <p align="center">
