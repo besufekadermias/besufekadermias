@@ -139,11 +139,11 @@ const besufekad = {
 <br/><br/>
 
 <!-- Streak stats — streak-stats.demolab.com is stable and widely used -->
-<img
+[<img
   src="https://streak-stats.demolab.com/?user=besufekadermias&theme=github-dark-blue&border=1f6feb&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&stroke=0d1117"
   width="500"
   alt="GitHub Streak"
-/>
+/>](https://streak-stats.demolab.com/?user=besufekadermias&theme=github-dark-blue&...)
 
 </div>
 
