@@ -8,7 +8,7 @@
   alt="header"
 />
 
-<!-- ── TYPING SVG and make it best ────────────────────────────────────────────
+<!-- ── TYPING SVG and make it best ui ────────────────────────────────────────────
 ──────────────────────────────────────────────────────────── -->
 <a href="https://readme-typing-svg.demolab.com">
   <img
