@@ -35,8 +35,7 @@
      Update the values to match your real info.
 ══════════════════════════════════════════════════════════ -->
 
- &nbsp;About Me
-
+<!-- &nbsp;About Me-->
 ```typescript
 const besufekad = {
   name:       "Besufekad Ermias",
