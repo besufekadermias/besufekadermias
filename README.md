@@ -3,11 +3,11 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2d6b,100:1f6feb&height=220&section=header&text=Besufekad%20Ermias&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Always%20Learning&descAlignY=58&descSize=19&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2d6b,100:1f6feb&height=220&section=header&text=Besufekad%20Ermias&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=19&animation=fadeIn"
   width="100%"
   alt="header"
 />
-
+  
 <!-- ── TYPING SVG and make it best ui ux ────────────────────────────────────────────
 ──────────────────────────────────────────────────────────── -->
 <!--<a href="https://readme-typing-svg.demolab.com">
