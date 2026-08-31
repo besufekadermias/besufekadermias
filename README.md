@@ -174,8 +174,4 @@ const besufekad = {
   alt="footer"
 />
 
-*"The best error message is the one that never shows up." — Thomas Fuchs*
-
-**Thanks for visiting  let's build something powerful together! **
-
 </div>
