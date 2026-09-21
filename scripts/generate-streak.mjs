@@ -159,21 +159,16 @@ const formatRange = (run) =>
       ? formatDate(run.end, true)
       : `${formatDate(run.start)} - ${formatDate(run.end)}`;
 
-export function renderSvg({ total, since, current, longest }) {
+export function renderSvg({ current, longest }) {
   const t = THEME;
   const radius = 36;
   const circumference = 2 * Math.PI * radius;
   const gap = 24; // opening at the top of the ring, where the flame sits
   const rotation = -90 + (gap / 2 / circumference) * 360;
+  const ringX = 165; // current streak (ring), left half of the card
+  const longestX = 335; // longest streak, right half of the card
 
-  const column = (x, value, label, sub) => `
-    <g text-anchor="middle">
-      <text x="${x}" y="88" class="value">${value.toLocaleString("en-US")}</text>
-      <text x="${x}" y="122" class="label">${label}</text>
-      <text x="${x}" y="144" class="sub">${sub}</text>
-    </g>`;
-
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="500" height="195" viewBox="0 0 500 195" role="img" aria-label="GitHub streak: ${current.length} day current streak, ${longest.length} day longest streak, ${total} total contributions">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="500" height="195" viewBox="0 0 500 195" role="img" aria-label="GitHub streak: ${current.length} day current streak, ${longest.length} day longest streak">
   <style>
     text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
     .value { font-size: 28px; font-weight: 700; fill: ${t.accent}; }
@@ -185,18 +180,21 @@ export function renderSvg({ total, since, current, longest }) {
 
   <rect x="0.5" y="0.5" width="499" height="194" rx="4.5" fill="${t.background}" stroke="${t.border}"/>
 
-  ${column(83, total, "Total Contributions", `${formatDate(since, true)} - Present`)}
-  ${column(417, longest.length, "Longest Streak", formatRange(longest))}
+  <g text-anchor="middle">
+    <circle cx="${ringX}" cy="80" r="${radius}" fill="none" stroke="${t.accent}" stroke-width="5"
+      stroke-linecap="round" stroke-dasharray="${(circumference - gap).toFixed(2)} ${gap}"
+      transform="rotate(${rotation.toFixed(2)} ${ringX} 80)"/>
+    <path transform="translate(${ringX - 10} 32) scale(0.85)" fill="${t.fire}"
+      d="M12 2C12 2 5 9 5 14.5 5 18.6 8.1 22 12 22s7-3.4 7-7.5c0-3-1.5-5-3-6.5-.3 2-1.2 3-2.5 3.5C14 8 13 4.5 12 2z"/>
+    <text x="${ringX}" y="90" class="ring-number">${current.length.toLocaleString("en-US")}</text>
+    <text x="${ringX}" y="146" class="ring-label">Current Streak</text>
+    <text x="${ringX}" y="168" class="sub">${formatRange(current)}</text>
+  </g>
 
   <g text-anchor="middle">
-    <circle cx="250" cy="80" r="${radius}" fill="none" stroke="${t.accent}" stroke-width="5"
-      stroke-linecap="round" stroke-dasharray="${(circumference - gap).toFixed(2)} ${gap}"
-      transform="rotate(${rotation.toFixed(2)} 250 80)"/>
-    <path transform="translate(240 32) scale(0.85)" fill="${t.fire}"
-      d="M12 2C12 2 5 9 5 14.5 5 18.6 8.1 22 12 22s7-3.4 7-7.5c0-3-1.5-5-3-6.5-.3 2-1.2 3-2.5 3.5C14 8 13 4.5 12 2z"/>
-    <text x="250" y="90" class="ring-number">${current.length.toLocaleString("en-US")}</text>
-    <text x="250" y="146" class="ring-label">Current Streak</text>
-    <text x="250" y="168" class="sub">${formatRange(current)}</text>
+    <text x="${longestX}" y="90" class="value">${longest.length.toLocaleString("en-US")}</text>
+    <text x="${longestX}" y="146" class="label">Longest Streak</text>
+    <text x="${longestX}" y="168" class="sub">${formatRange(longest)}</text>
   </g>
 </svg>
 `;
@@ -218,7 +216,7 @@ async function main() {
   await writeFile(output, renderSvg(stats), "utf8");
 
   console.log(
-    `${login}: ${stats.total} contributions, current streak ${stats.current.length}, longest ${stats.longest.length}`,
+    `${login}: current streak ${stats.current.length}, longest ${stats.longest.length}`,
   );
 }
 
