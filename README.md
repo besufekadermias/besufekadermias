@@ -78,10 +78,6 @@ const besufekad = {
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation"/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
